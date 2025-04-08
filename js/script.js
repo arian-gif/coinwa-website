@@ -1,3 +1,6 @@
+document.addEventListener('DOMContentLoaded', function() {
+    document.body.classList.add('fade-in');
+});
 // Wait for the DOM to be fully loaded
 document.addEventListener('DOMContentLoaded', function() {
     // Add scroll event listener for header background change
