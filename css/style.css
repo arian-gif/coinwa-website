@@ -1475,7 +1475,7 @@ footer {
     display: inline-block;
     padding: 8px 16px;
     background-color: #f0f9ff;
-    color: #ff08ff;
+    color: var(--primary);
     font-weight: 600;
     font-size: 0.875rem;
     border-radius: 20px;
@@ -1555,7 +1555,7 @@ footer {
 .feature-link {
     display: inline-flex;
     align-items: center;
-    color: #ff08ff;
+    color: #8918ec;
     text-decoration: none;
     font-weight: 600;
     transition: color 0.3s ease;
